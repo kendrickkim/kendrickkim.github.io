@@ -1,0 +1,673 @@
+{
+  "locale": "ko",
+  "htmlLang": "ko",
+  "title": "kendrickkim — Open Source",
+  "description": "Kendrick Kim — Wikiman, PHAST API, BMW Motorrad cluster 오픈 소스 프로필",
+  "nav": {
+    "profile": "Profile",
+    "skills": "Skills",
+    "portfolio": "Portfolio",
+    "wikiman": "Wikiman",
+    "bmw": "BMW",
+    "contrib": "참여",
+    "github": "GitHub",
+    "aria": "주요 메뉴"
+  },
+  "profile": {
+    "name": "Kendrick Kim",
+    "handle": "kendrickkim",
+    "location": "Daegu, Korea",
+    "site": "https://love-02.com",
+    "github": "https://github.com/kendrickkim",
+    "bio": "개인 위키, PHP REST 프레임워크, BMW Motorrad 클러스터 관련 오픈 소스를 공개하고 있습니다.",
+    "githubButton": "GitHub 프로필",
+    "portfolioButton": "포트폴리오",
+    "skillsButton": "스킬셋 보기"
+  },
+  "skills": {
+    "eyebrow": "SKILLSET",
+    "title": "Skills",
+    "copy": "소프트웨어, 하드웨어, CAD 영역의 주요 기술 스택입니다.",
+    "groups": [
+      {
+        "title": "Software Development",
+        "icon": "/skills/software.svg",
+        "groups": [
+          [
+            "C",
+            "C++",
+            "Java",
+            "Kotlin",
+            "JavaScript",
+            "Dart",
+            "SCSS",
+            "HTML",
+            "Python"
+          ],
+          [
+            "Android",
+            "Flutter",
+            "Vue",
+            "React",
+            "Win32 API",
+            "MFC",
+            "C#",
+            "Visual Basic",
+            "PHP",
+            "JSP",
+            "Node.js"
+          ]
+        ]
+      },
+      {
+        "title": "Hardware Design",
+        "icon": "/skills/hardware.svg",
+        "groups": [
+          [
+            "PADS",
+            "Altium",
+            "EasyEDA",
+            "KiCad"
+          ],
+          [
+            "Circuit",
+            "PCB Artwork",
+            "Firmware"
+          ]
+        ]
+      },
+      {
+        "title": "CAD",
+        "icon": "/skills/cad.svg",
+        "groups": [
+          [
+            "SolidWorks",
+            "FreeCAD"
+          ]
+        ]
+      }
+    ]
+  },
+  "openDev": {
+    "eyebrow": "OPEN SOURCE",
+    "title": "공개 개발",
+    "copy": "직접 만들고 공개 중인 프로젝트입니다.",
+    "tableRepo": "저장소",
+    "tableRole": "역할",
+    "tableSummary": "설명",
+    "tableLang": "언어",
+    "wikimanTitle": "Wikiman",
+    "wikimanCopy": "혼자 쓰는 개인 위키. Vue 프론트엔드, Node/PHP 백엔드와 Android·iOS 관리자 앱으로 구성합니다.",
+    "phastTitle": "PHAST API",
+    "phastCopy": "PHP 호스팅에서도 빠르게 REST API를 만들 수 있게 한 경량 프레임워크입니다.",
+    "gameSyncTitle": "Game Sync",
+    "gameSyncCopy": "여러 PC에서 서로 다른 게임 세이브 경로를 안전하게 업로드하고 내려받는 동기화 도구입니다.",
+    "bmwTitle": "BMW bike",
+    "bmwCopy": "BMW Motorrad LIN 신호를 분석해 안드로이드 클러스터로 전달하는 일련의 프로젝트입니다."
+  },
+  "contrib": {
+    "eyebrow": "CONTRIBUTIONS",
+    "title": "참여 프로젝트",
+    "copy": "외부 오픈 소스에 한국어 작업으로 참여한 프로젝트입니다.",
+    "tableRepo": "저장소",
+    "tableRole": "참여",
+    "tableSummary": "설명",
+    "tableLang": "언어"
+  },
+  "career": {
+    "eyebrow": "CAREER",
+    "title": "커리어",
+    "items": [
+      {
+        "period": "2003",
+        "detail": "해병대 만기 전역 (S/W 개발 관련 병과)"
+      },
+      {
+        "period": "2006",
+        "detail": "Y** 대학교 컴퓨터공학 졸업"
+      },
+      {
+        "period": "2008",
+        "detail": "Y** 대학교 대학원 컴퓨터공학 석사 졸업"
+      },
+      {
+        "period": "2010",
+        "detail": "Y** 대학교 대학원 컴퓨터공학 박사 수료"
+      },
+      {
+        "period": "2008 ~ 2013",
+        "detail": "Y** 전문대 겸임교수"
+      },
+      {
+        "period": "2010 ~ 2016",
+        "detail": "Y** 대학교 겸임교수"
+      },
+      {
+        "period": "2008 ~ 2016",
+        "detail": "U*** 연구소장"
+      },
+      {
+        "period": "2016 ~ 2025",
+        "detail": "M*** 연구소장, 기술이사"
+      },
+      {
+        "period": "2025 ~",
+        "detail": "M****** 기술이사"
+      }
+    ]
+  },
+  "work": {
+    "eyebrow": "WORK",
+    "title": "수행업무 - 공개가능",
+    "groups": [
+      {
+        "period": "2008 ~ 2010",
+        "items": [
+          {
+            "title": "SSD 이용 윈도우즈 성능 향상 기법 연구",
+            "roles": "프로젝트 리더, 연구 개발"
+          },
+          {
+            "title": "SSD 메모리 실장기 연구·개발",
+            "roles": "프로젝트 리더, 연구 개발"
+          },
+          {
+            "title": "MP3 메모리 실장기 연구",
+            "roles": "프로젝트 리더, 연구 개발"
+          }
+        ]
+      },
+      {
+        "period": "2010 ~ 2013",
+        "items": [
+          {
+            "title": "Android 셋탑박스 개발",
+            "roles": "프로젝트 리더, 하드웨어 설계, 소프트웨어 개발"
+          }
+        ]
+      },
+      {
+        "period": "2014",
+        "items": [
+          {
+            "title": "Wuhan Splendid Optical Technology Android Beam Projector 개발",
+            "roles": "프로젝트 리더, 하드웨어 설계, 소프트웨어 개발"
+          }
+        ]
+      },
+      {
+        "period": "2014 ~ 2016",
+        "items": [
+          {
+            "title": "인슐린 펌프 하드웨어·펌웨어 및 모니터 하드웨어 개발",
+            "roles": "하드웨어 설계, 펌웨어 개발"
+          }
+        ]
+      },
+      {
+        "period": "2016",
+        "items": [
+          {
+            "title": "물류운송용 콜드체인 모니터링 BLE 장치",
+            "roles": "프로젝트 리더, 하드웨어 설계, 펌웨어 개발"
+          }
+        ]
+      },
+      {
+        "period": "2017",
+        "items": [
+          {
+            "title": "Vivopay Cardreader Bridge 개발",
+            "roles": "하드웨어 설계, 펌웨어 개발"
+          }
+        ]
+      },
+      {
+        "period": "2018",
+        "items": [
+          {
+            "title": "SK 렌터카 촬영 자동화 시스템 설계·개발",
+            "roles": "프로젝트 리더, 시스템 설계, 윈도우즈 프로그램 개발"
+          },
+          {
+            "title": "Kcar 촬영 자동화 시스템 설계·개발",
+            "roles": "프로젝트 리더, 시스템 설계, 윈도우즈 프로그램 개발"
+          }
+        ]
+      },
+      {
+        "period": "2019",
+        "items": [
+          {
+            "title": "AJ 셀카 딜러용 애플리케이션 개발",
+            "roles": "프로젝트 리더, 안드로이드 프로그램 개발"
+          }
+        ]
+      },
+      {
+        "period": "2020",
+        "items": [
+          {
+            "title": "전기바이크용 배터리 충전 스테이션 개발",
+            "roles": "충전기 제어 모듈 개발, 안드로이드 프로그램 개발"
+          },
+          {
+            "title": "도이치 모터스 촬영 자동화 시스템 설계·개발",
+            "roles": "프로젝트 리더, 턴테이블 제어, 윈도우즈 프로그램 개발"
+          },
+          {
+            "title": "공기질 모니터링 장치 펌웨어 개발",
+            "roles": "하드웨어 설계, 펌웨어 개발"
+          }
+        ]
+      },
+      {
+        "period": "2021",
+        "items": [
+          {
+            "title": "Bogo work 설계·개발",
+            "roles": "프로젝트 리더, 설계, 백엔드 개발"
+          },
+          {
+            "title": "안드로이드 로봇 컨텐츠 재생툴·제작툴 개발",
+            "roles": "프로젝트 리더, 윈도우즈 프로그램 개발"
+          }
+        ]
+      },
+      {
+        "period": "2022",
+        "items": [
+          {
+            "title": "Kcar 차량 이미지 뷰어 개발",
+            "roles": "프로젝트 리더, Vue 프론트엔드 개발"
+          },
+          {
+            "title": "Sparta Academy 플랫폼 개발",
+            "roles": "프로젝트 리더, 백엔드, 프론트엔드 개발"
+          },
+          {
+            "title": "Wi-Fi Power Outlet 펌웨어 개발, 삼성 스마트싱스 인증",
+            "roles": "펌웨어 개발, UL 인증 대응"
+          }
+        ]
+      },
+      {
+        "period": "2023",
+        "items": [
+          {
+            "title": "사이버 안심존 개발",
+            "roles": "안드로이드 프로그램 개발"
+          }
+        ]
+      },
+      {
+        "period": "2024",
+        "items": [
+          {
+            "title": "KB 차차차 촬영 자동화 설계·개발",
+            "roles": "프로젝트 리더, 프론트엔드 개발"
+          }
+        ]
+      },
+      {
+        "period": "2025",
+        "items": [
+          {
+            "title": "SRS Radar Orin NX / Thor 포팅",
+            "roles": "리눅스 커널 포팅"
+          }
+        ]
+      },
+      {
+        "period": "2026",
+        "items": [
+          {
+            "title": "남양주시 경로당 의료 키오스크·센서 게이트웨이 개발",
+            "roles": "프론트엔드 개발, 하드웨어 설계, 펌웨어 개발"
+          }
+        ]
+      }
+    ]
+  },
+  "footerProfile": "Profile",
+  "wikimanRepos": [
+    {
+      "name": "wikiman",
+      "role": "허브",
+      "summary": "Wikiman 전체 구성과 관련 저장소를 한눈에 안내하는 문서 허브입니다.",
+      "url": "https://github.com/kendrickkim/wikiman"
+    },
+    {
+      "name": "wikiman-frontend",
+      "role": "프론트엔드",
+      "summary": "Vue 3 + Quasar 기반 개인 위키 UI. 글·카테고리·에디터·PWA를 담당합니다.",
+      "url": "https://github.com/kendrickkim/wikiman-frontend",
+      "lang": "Vue"
+    },
+    {
+      "name": "wikiman-backend",
+      "role": "백엔드 (Node)",
+      "summary": "Express + SQLite API. JWT 인증, 업로드, 백업, 링크 미리보기 등 기준 구현입니다.",
+      "url": "https://github.com/kendrickkim/wikiman-backend",
+      "lang": "JavaScript"
+    },
+    {
+      "name": "wikiman-backend-php",
+      "role": "백엔드 (PHP)",
+      "summary": "PHAST API v2 + SQLite로 Node API와 같은 계약을 PHP 호스팅에서 제공합니다.",
+      "url": "https://github.com/kendrickkim/wikiman-backend-php",
+      "lang": "PHP"
+    },
+    {
+      "name": "wikiman-flutter",
+      "role": "관리자 앱",
+      "summary": "기존 Wikiman 사이트를 연결하고 공유한 텍스트·사진·파일을 빠른 글로 보내는 Android·iOS 앱입니다.",
+      "url": "https://github.com/kendrickkim/wikiman-flutter",
+      "lang": "Dart"
+    }
+  ],
+  "phastapiRepos": [
+    {
+      "name": "phastapiv2",
+      "role": "프레임워크",
+      "summary": "PHP 8 Attribute 라우팅 기반의 경량 REST API 프레임워크입니다.",
+      "url": "https://github.com/kendrickkim/phastapiv2",
+      "lang": "PHP"
+    }
+  ],
+  "gameSyncRepos": [
+    {
+      "name": "game-sync",
+      "role": "통합 저장소",
+      "summary": "여러 Windows PC의 게임 세이브 디렉토리를 계정·게임별로 동기화하는 전체 프로젝트입니다.",
+      "url": "https://github.com/kendrickkim/game-sync"
+    },
+    {
+      "name": "game-sync-client",
+      "role": "Windows 클라이언트",
+      "summary": "게임별 로컬 경로, 업로드 기록, 원격 업로드 요청과 트레이 상주를 지원하는 .NET 8 WinForms 앱입니다.",
+      "url": "https://github.com/kendrickkim/game-sync-client",
+      "lang": "C#"
+    },
+    {
+      "name": "game-sync-server",
+      "role": "API 서버",
+      "summary": "JWT 인증과 SQLite 메타데이터, 압축 파일 보관 및 원격 업로드 명령을 제공하는 Node.js API입니다.",
+      "url": "https://github.com/kendrickkim/game-sync-server",
+      "lang": "JavaScript"
+    }
+  ],
+  "bmwRepos": [
+    {
+      "name": "bmw-motorrad-cluster-linbus",
+      "role": "신호 분석",
+      "summary": "BMW Motorrad LIN 버스 신호를 분석하고 클러스터로 전달하기 위한 문서·분석 자료입니다.",
+      "url": "https://github.com/kendrickkim/bmw-motorrad-cluster-linbus"
+    },
+    {
+      "name": "bmw-motorrad-cluster-esp32",
+      "role": "펌웨어",
+      "summary": "ESP32로 LIN 신호를 수집해 스마트폰 헤드유닛 클러스터로 전송하는 펌웨어입니다.",
+      "url": "https://github.com/kendrickkim/bmw-motorrad-cluster-esp32",
+      "lang": "C++"
+    },
+    {
+      "name": "bmw-motorrad-cluster-application",
+      "role": "앱",
+      "summary": "BMW Motorrad용 안드로이드 클러스터 애플리케이션을 만드는 프로젝트입니다.",
+      "url": "https://github.com/kendrickkim/bmw-motorrad-cluster-application",
+      "lang": "Kotlin"
+    }
+  ],
+  "contribRepos": [
+    {
+      "name": "open-headunit",
+      "role": "한국어 작업",
+      "summary": "Android Auto를 표시하는 헤드유닛 앱(구 Headunit Revived). 한국어 현지화에 참여했습니다.",
+      "url": "https://github.com/andreknieriem/open-headunit",
+      "lang": "Kotlin"
+    },
+    {
+      "name": "wireless-helper",
+      "role": "한국어 작업",
+      "summary": "Headunit/Open Headunit용 무선 Android Auto 연결 도우미. 한국어 번역에 참여했습니다.",
+      "url": "https://github.com/andreknieriem/wireless-helper",
+      "lang": "Kotlin"
+    }
+  ],
+  "portfolio": {
+    "eyebrow": "SELECTED WORK",
+    "title": "Portfolio",
+    "lead": "소프트웨어와 하드웨어를 연결해\n실제 환경에서 동작하는 시스템을 설계하고 개발합니다.",
+    "softwareEyebrow": "SOFTWARE",
+    "softwareTitle": "공개 S/W",
+    "hardwareEyebrow": "HARDWARE",
+    "hardwareTitle": "H/W",
+    "hardwareIntro": "공개 가능한 하드웨어 설계 및 펌웨어 개발 프로젝트입니다.",
+    "contributionsAria": "주요 기술과 기능",
+    "rolesAria": "담당 영역",
+    "enlargeAria": "크게 보기",
+    "viewerAria": "이미지 전체 화면 보기",
+    "closeAria": "닫기",
+    "prevAria": "이전 이미지",
+    "nextAria": "다음 이미지",
+    "software": [
+      {
+        "number": "01",
+        "title": "Wikiman",
+        "subtitle": "개인 위키와 모바일 관리자 앱",
+        "description": "혼자 쓰는 개인 위키입니다. Vue 프론트엔드와 Node/PHP 백엔드를 같은 API 계약으로 구성하고, Android·iOS 관리자 앱으로 텍스트·사진·파일을 빠르게 글로 올릴 수 있습니다.",
+        "contributions": [
+          "Vue 3·Quasar 프론트엔드",
+          "Express·SQLite 백엔드",
+          "PHP 호스팅용 API",
+          "JWT 인증·업로드·백업",
+          "Flutter 관리자 앱",
+          "PWA"
+        ],
+        "signals": [
+          "VUE",
+          "API",
+          "PHP",
+          "APP"
+        ],
+        "links": [
+          {
+            "label": "허브",
+            "href": "https://github.com/kendrickkim/wikiman"
+          },
+          {
+            "label": "프론트엔드",
+            "href": "https://github.com/kendrickkim/wikiman-frontend"
+          },
+          {
+            "label": "Node 백엔드",
+            "href": "https://github.com/kendrickkim/wikiman-backend"
+          },
+          {
+            "label": "PHP 백엔드",
+            "href": "https://github.com/kendrickkim/wikiman-backend-php"
+          },
+          {
+            "label": "Flutter 앱",
+            "href": "https://github.com/kendrickkim/wikiman-flutter"
+          }
+        ]
+      },
+      {
+        "number": "02",
+        "title": "PHAST API",
+        "subtitle": "PHP Attribute 기반 경량 REST 프레임워크",
+        "description": "PHP 호스팅에서도 빠르게 REST API를 만들 수 있게 한 경량 프레임워크입니다. PHP 8 Attribute 라우팅을 사용해 선언적으로 엔드포인트를 정의합니다.",
+        "contributions": [
+          "PHP 8 Attribute 라우팅",
+          "경량 REST API 구조",
+          "호스팅 친화적 배포",
+          "Wikiman PHP 백엔드에 적용"
+        ],
+        "signals": [
+          "PHP",
+          "ATTR",
+          "REST",
+          "API"
+        ],
+        "links": [
+          {
+            "label": "phastapiv2",
+            "href": "https://github.com/kendrickkim/phastapiv2"
+          }
+        ]
+      },
+      {
+        "number": "03",
+        "title": "Game Sync",
+        "subtitle": "여러 PC를 위한 게임 세이브 동기화 도구",
+        "description": "PC마다 다른 게임 세이브 경로를 계정과 게임 단위로 관리하고, 디렉토리를 ZIP으로 압축해 서버에 보관합니다. 업로드 이력을 골라 복원하거나 같은 계정의 원격 PC에 업로드를 요청할 수 있습니다.",
+        "contributions": [
+          ".NET 8 WinForms 클라이언트",
+          "Node.js·Express API",
+          "SQLite 데이터 모델",
+          "JWT 인증",
+          "원격 업로드 명령",
+          "Windows 트레이 애플리케이션"
+        ],
+        "signals": [
+          "WIN",
+          "ZIP",
+          "API",
+          "SYNC"
+        ],
+        "links": [
+          {
+            "label": "통합 저장소",
+            "href": "https://github.com/kendrickkim/game-sync"
+          },
+          {
+            "label": "Windows 클라이언트",
+            "href": "https://github.com/kendrickkim/game-sync-client"
+          },
+          {
+            "label": "Node.js 서버",
+            "href": "https://github.com/kendrickkim/game-sync-server"
+          }
+        ]
+      }
+    ],
+    "hardware": [
+      {
+        "number": "01",
+        "title": "M-Tracker",
+        "subtitle": "차량 운행 정보 수집 및 클라우드 전송 장치",
+        "description": "자동차의 CAN 신호를 분석해 운행 기록, 현재 속도, 위치 등의 정보를 수집하고 클라우드 서버로 전송하는 차량용 하드웨어입니다.",
+        "contributions": [
+          "하드웨어 설계",
+          "CAN 신호 분석",
+          "펌웨어 개발",
+          "클라우드 연동"
+        ],
+        "images": [
+          {
+            "src": "/portfolio/mtracker1.png",
+            "alt": "M-Tracker PCB artwork"
+          },
+          {
+            "src": "/portfolio/mtracker2.png",
+            "alt": "M-Tracker 3D PCB rendering"
+          }
+        ]
+      },
+      {
+        "number": "02",
+        "title": "Dooderge Connector — Kiruki",
+        "subtitle": "산업용 다중 인터페이스 데이터 수집 장치",
+        "description": "RS-232, RS-485, Wi-Fi, LAN, 접점 신호 등 다양한 현장 정보를 한 장치에서 수집해 서버로 전송하는 산업용 커넥터입니다.",
+        "contributions": [
+          "하드웨어 설계",
+          "펌웨어 개발",
+          "Windows 애플리케이션 개발",
+          "통신 프로토콜"
+        ],
+        "images": [
+          {
+            "src": "/portfolio/kiruki1.png",
+            "alt": "Kiruki PCB artwork"
+          },
+          {
+            "src": "/portfolio/kiruki2.png",
+            "alt": "Kiruki 3D PCB rendering"
+          }
+        ]
+      },
+      {
+        "number": "03",
+        "title": "BMW Bike Cluster",
+        "subtitle": "BMW Motorrad용 안드로이드 클러스터 시스템",
+        "description": "BMW 바이크의 LIN 또는 CAN 신호를 분석해 속도, RPM, 기어와 컨트롤 상태를 안드로이드 기기로 전달하고 클러스터 화면에 표시하는 통합 프로젝트입니다.",
+        "contributions": [
+          "하드웨어 설계",
+          "펌웨어 개발",
+          "Android 애플리케이션 개발",
+          "LIN·CAN 신호 분석"
+        ],
+        "images": [
+          {
+            "src": "/portfolio/bmw-bike1.png",
+            "alt": "BMW Bike Cluster 하드웨어"
+          },
+          {
+            "src": "/portfolio/bmw-bike2.png",
+            "alt": "BMW Bike Cluster 장치"
+          },
+          {
+            "src": "/portfolio/bmw-bike3.png",
+            "alt": "BMW Bike Cluster 애플리케이션"
+          }
+        ],
+        "video": {
+          "src": "https://www.youtube.com/embed/BmVxNDDYLkI",
+          "title": "BMW Bike Cluster 동작 영상"
+        },
+        "links": [
+          {
+            "label": "LIN bus 분석",
+            "href": "https://github.com/kendrickkim/bmw-motorrad-cluster-linbus"
+          },
+          {
+            "label": "ESP32 펌웨어",
+            "href": "https://github.com/kendrickkim/bmw-motorrad-cluster-esp32"
+          },
+          {
+            "label": "Android 앱",
+            "href": "https://github.com/kendrickkim/bmw-motorrad-cluster-application"
+          }
+        ]
+      },
+      {
+        "number": "04",
+        "title": "울진 스카이레일 정보 수집장치",
+        "subtitle": "LTE 기반 차량 상태 수집 및 모니터링 시스템",
+        "description": "스카이레일 차량에서 발생하는 여러 상태 정보를 수집하고 LTE를 통해 서버로 전송합니다. 서버에서 데이터를 처리하고 웹 화면으로 운행 상황을 모니터링할 수 있도록 구성했습니다.",
+        "contributions": [
+          "펌웨어 개발",
+          "Linux 서버 개발",
+          "상황 모니터링 웹 개발",
+          "LTE 통신"
+        ],
+        "images": [
+          {
+            "src": "/portfolio/skyrail1.png",
+            "alt": "스카이레일 정보 수집장치 PCB artwork"
+          },
+          {
+            "src": "/portfolio/skyrail2.png",
+            "alt": "스카이레일 정보 수집장치 3D PCB rendering"
+          },
+          {
+            "src": "/portfolio/skyrail3.png",
+            "alt": "스카이레일 모니터링 웹 로그인 화면"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,673 @@
+{
+  "locale": "en",
+  "htmlLang": "en",
+  "title": "kendrickkim — Open Source",
+  "description": "Kendrick Kim — open-source profile for Wikiman, PHAST API, and BMW Motorrad cluster projects",
+  "nav": {
+    "profile": "Profile",
+    "skills": "Skills",
+    "portfolio": "Portfolio",
+    "wikiman": "Wikiman",
+    "bmw": "BMW",
+    "contrib": "Contrib",
+    "github": "GitHub",
+    "aria": "Main menu"
+  },
+  "profile": {
+    "name": "Kendrick Kim",
+    "handle": "kendrickkim",
+    "location": "Daegu, Korea",
+    "site": "https://love-02.com",
+    "github": "https://github.com/kendrickkim",
+    "bio": "I publish a personal wiki, a lightweight PHP REST framework, and BMW Motorrad cluster-related open source.",
+    "githubButton": "GitHub profile",
+    "portfolioButton": "Portfolio",
+    "skillsButton": "View skills"
+  },
+  "skills": {
+    "eyebrow": "SKILLSET",
+    "title": "Skills",
+    "copy": "Core skills across software, hardware, and CAD.",
+    "groups": [
+      {
+        "title": "Software Development",
+        "icon": "/skills/software.svg",
+        "groups": [
+          [
+            "C",
+            "C++",
+            "Java",
+            "Kotlin",
+            "JavaScript",
+            "Dart",
+            "SCSS",
+            "HTML",
+            "Python"
+          ],
+          [
+            "Android",
+            "Flutter",
+            "Vue",
+            "React",
+            "Win32 API",
+            "MFC",
+            "C#",
+            "Visual Basic",
+            "PHP",
+            "JSP",
+            "Node.js"
+          ]
+        ]
+      },
+      {
+        "title": "Hardware Design",
+        "icon": "/skills/hardware.svg",
+        "groups": [
+          [
+            "PADS",
+            "Altium",
+            "EasyEDA",
+            "KiCad"
+          ],
+          [
+            "Circuit",
+            "PCB Artwork",
+            "Firmware"
+          ]
+        ]
+      },
+      {
+        "title": "CAD",
+        "icon": "/skills/cad.svg",
+        "groups": [
+          [
+            "SolidWorks",
+            "FreeCAD"
+          ]
+        ]
+      }
+    ]
+  },
+  "openDev": {
+    "eyebrow": "OPEN SOURCE",
+    "title": "Open source",
+    "copy": "Projects I build and publish.",
+    "tableRepo": "Repository",
+    "tableRole": "Role",
+    "tableSummary": "Summary",
+    "tableLang": "Language",
+    "wikimanTitle": "Wikiman",
+    "wikimanCopy": "A personal wiki with a Vue frontend, Node/PHP backends, and Android/iOS admin apps.",
+    "phastTitle": "PHAST API",
+    "phastCopy": "A lightweight REST framework for shipping APIs quickly on PHP hosting.",
+    "gameSyncTitle": "Game Sync",
+    "gameSyncCopy": "A sync tool that safely uploads and restores game save folders across PCs with different local paths.",
+    "bmwTitle": "BMW bike",
+    "bmwCopy": "A set of projects that decode BMW Motorrad LIN signals and send them to an Android cluster."
+  },
+  "contrib": {
+    "eyebrow": "CONTRIBUTIONS",
+    "title": "Contributions",
+    "copy": "Upstream open-source projects I contributed Korean localization to.",
+    "tableRepo": "Repository",
+    "tableRole": "Work",
+    "tableSummary": "Summary",
+    "tableLang": "Language"
+  },
+  "career": {
+    "eyebrow": "CAREER",
+    "title": "Career",
+    "items": [
+      {
+        "period": "2003",
+        "detail": "Completed ROK Marine Corps service (software-related MOS)"
+      },
+      {
+        "period": "2006",
+        "detail": "B.S. in Computer Engineering, Y** University"
+      },
+      {
+        "period": "2008",
+        "detail": "M.S. in Computer Engineering, Y** University"
+      },
+      {
+        "period": "2010",
+        "detail": "Completed doctoral coursework in Computer Engineering, Y** University"
+      },
+      {
+        "period": "2008 ~ 2013",
+        "detail": "Adjunct professor, Y** College"
+      },
+      {
+        "period": "2010 ~ 2016",
+        "detail": "Adjunct professor, Y** University"
+      },
+      {
+        "period": "2008 ~ 2016",
+        "detail": "Research director, U***"
+      },
+      {
+        "period": "2016 ~ 2025",
+        "detail": "Research director and technical director, M***"
+      },
+      {
+        "period": "2025 ~",
+        "detail": "Technical director, M******"
+      }
+    ]
+  },
+  "work": {
+    "eyebrow": "WORK",
+    "title": "Selected work — public",
+    "groups": [
+      {
+        "period": "2008 ~ 2010",
+        "items": [
+          {
+            "title": "Windows performance research using SSDs",
+            "roles": "Project lead, R&D"
+          },
+          {
+            "title": "SSD memory programmer research and development",
+            "roles": "Project lead, R&D"
+          },
+          {
+            "title": "MP3 memory programmer research",
+            "roles": "Project lead, R&D"
+          }
+        ]
+      },
+      {
+        "period": "2010 ~ 2013",
+        "items": [
+          {
+            "title": "Android set-top box development",
+            "roles": "Project lead, hardware design, software development"
+          }
+        ]
+      },
+      {
+        "period": "2014",
+        "items": [
+          {
+            "title": "Wuhan Splendid Optical Technology Android beam projector",
+            "roles": "Project lead, hardware design, software development"
+          }
+        ]
+      },
+      {
+        "period": "2014 ~ 2016",
+        "items": [
+          {
+            "title": "Insulin pump hardware/firmware and monitor hardware",
+            "roles": "Hardware design, firmware development"
+          }
+        ]
+      },
+      {
+        "period": "2016",
+        "items": [
+          {
+            "title": "Cold-chain monitoring BLE device for logistics",
+            "roles": "Project lead, hardware design, firmware development"
+          }
+        ]
+      },
+      {
+        "period": "2017",
+        "items": [
+          {
+            "title": "Vivopay Cardreader Bridge",
+            "roles": "Hardware design, firmware development"
+          }
+        ]
+      },
+      {
+        "period": "2018",
+        "items": [
+          {
+            "title": "SK Rent-a-Car photo automation system",
+            "roles": "Project lead, system design, Windows application development"
+          },
+          {
+            "title": "Kcar photo automation system",
+            "roles": "Project lead, system design, Windows application development"
+          }
+        ]
+      },
+      {
+        "period": "2019",
+        "items": [
+          {
+            "title": "AJ Selcar dealer application",
+            "roles": "Project lead, Android app development"
+          }
+        ]
+      },
+      {
+        "period": "2020",
+        "items": [
+          {
+            "title": "Electric-bike battery charging station",
+            "roles": "Charger control module, Android app development"
+          },
+          {
+            "title": "Deutsche Motors photo automation system",
+            "roles": "Project lead, turntable control, Windows application development"
+          },
+          {
+            "title": "Air-quality monitoring device firmware",
+            "roles": "Hardware design, firmware development"
+          }
+        ]
+      },
+      {
+        "period": "2021",
+        "items": [
+          {
+            "title": "Bogo Work design and development",
+            "roles": "Project lead, design, backend"
+          },
+          {
+            "title": "Android robot content player and authoring tools",
+            "roles": "Project lead, Windows application development"
+          }
+        ]
+      },
+      {
+        "period": "2022",
+        "items": [
+          {
+            "title": "Kcar vehicle image viewer",
+            "roles": "Project lead, Vue frontend"
+          },
+          {
+            "title": "Sparta Academy platform",
+            "roles": "Project lead, backend, frontend"
+          },
+          {
+            "title": "Wi-Fi power outlet firmware and Samsung SmartThings certification",
+            "roles": "Firmware development, UL certification support"
+          }
+        ]
+      },
+      {
+        "period": "2023",
+        "items": [
+          {
+            "title": "Cyber Ansim Zone",
+            "roles": "Android app development"
+          }
+        ]
+      },
+      {
+        "period": "2024",
+        "items": [
+          {
+            "title": "KB Chachacha photo automation",
+            "roles": "Project lead, frontend"
+          }
+        ]
+      },
+      {
+        "period": "2025",
+        "items": [
+          {
+            "title": "SRS Radar Orin NX / Thor porting",
+            "roles": "Linux kernel porting"
+          }
+        ]
+      },
+      {
+        "period": "2026",
+        "items": [
+          {
+            "title": "Namyangju senior-center medical kiosk and sensor gateway",
+            "roles": "Frontend, hardware design, firmware development"
+          }
+        ]
+      }
+    ]
+  },
+  "footerProfile": "Profile",
+  "wikimanRepos": [
+    {
+      "name": "wikiman",
+      "role": "Hub",
+      "summary": "A documentation hub for the Wikiman project layout and related repositories.",
+      "url": "https://github.com/kendrickkim/wikiman"
+    },
+    {
+      "name": "wikiman-frontend",
+      "role": "Frontend",
+      "summary": "Vue 3 + Quasar personal wiki UI for posts, categories, editors, and PWA.",
+      "url": "https://github.com/kendrickkim/wikiman-frontend",
+      "lang": "Vue"
+    },
+    {
+      "name": "wikiman-backend",
+      "role": "Backend (Node)",
+      "summary": "Express + SQLite API: JWT auth, uploads, backups, and link previews.",
+      "url": "https://github.com/kendrickkim/wikiman-backend",
+      "lang": "JavaScript"
+    },
+    {
+      "name": "wikiman-backend-php",
+      "role": "Backend (PHP)",
+      "summary": "PHAST API v2 + SQLite backend that matches the Node API contract on PHP hosting.",
+      "url": "https://github.com/kendrickkim/wikiman-backend-php",
+      "lang": "PHP"
+    },
+    {
+      "name": "wikiman-flutter",
+      "role": "Admin app",
+      "summary": "Android and iOS app that connects to an existing Wikiman site and posts shared text, photos, and files quickly.",
+      "url": "https://github.com/kendrickkim/wikiman-flutter",
+      "lang": "Dart"
+    }
+  ],
+  "phastapiRepos": [
+    {
+      "name": "phastapiv2",
+      "role": "Framework",
+      "summary": "A lightweight PHP REST framework with PHP 8 attribute routing.",
+      "url": "https://github.com/kendrickkim/phastapiv2",
+      "lang": "PHP"
+    }
+  ],
+  "gameSyncRepos": [
+    {
+      "name": "game-sync",
+      "role": "Umbrella repo",
+      "summary": "End-to-end project for syncing game save directories across Windows PCs by account and game.",
+      "url": "https://github.com/kendrickkim/game-sync"
+    },
+    {
+      "name": "game-sync-client",
+      "role": "Windows client",
+      "summary": ".NET 8 WinForms app for per-game local paths, upload history, remote upload requests, and tray residency.",
+      "url": "https://github.com/kendrickkim/game-sync-client",
+      "lang": "C#"
+    },
+    {
+      "name": "game-sync-server",
+      "role": "API server",
+      "summary": "Node.js API with JWT auth, SQLite metadata, archived zip storage, and remote upload commands.",
+      "url": "https://github.com/kendrickkim/game-sync-server",
+      "lang": "JavaScript"
+    }
+  ],
+  "bmwRepos": [
+    {
+      "name": "bmw-motorrad-cluster-linbus",
+      "role": "Signal analysis",
+      "summary": "Notes and analysis for decoding BMW Motorrad LIN bus signals for the cluster.",
+      "url": "https://github.com/kendrickkim/bmw-motorrad-cluster-linbus"
+    },
+    {
+      "name": "bmw-motorrad-cluster-esp32",
+      "role": "Firmware",
+      "summary": "ESP32 firmware that captures LIN signals and sends them to a smartphone head-unit cluster.",
+      "url": "https://github.com/kendrickkim/bmw-motorrad-cluster-esp32",
+      "lang": "C++"
+    },
+    {
+      "name": "bmw-motorrad-cluster-application",
+      "role": "App",
+      "summary": "Android cluster application for BMW Motorrad motorcycles.",
+      "url": "https://github.com/kendrickkim/bmw-motorrad-cluster-application",
+      "lang": "Kotlin"
+    }
+  ],
+  "contribRepos": [
+    {
+      "name": "open-headunit",
+      "role": "Korean localization",
+      "summary": "Head-unit app for displaying Android Auto (formerly Headunit Revived). Korean localization.",
+      "url": "https://github.com/andreknieriem/open-headunit",
+      "lang": "Kotlin"
+    },
+    {
+      "name": "wireless-helper",
+      "role": "Korean localization",
+      "summary": "Wireless Android Auto helper for Headunit / Open Headunit. Korean translation.",
+      "url": "https://github.com/andreknieriem/wireless-helper",
+      "lang": "Kotlin"
+    }
+  ],
+  "portfolio": {
+    "eyebrow": "SELECTED WORK",
+    "title": "Portfolio",
+    "lead": "I design and build systems that connect software and hardware\nand run in the real world.",
+    "softwareEyebrow": "SOFTWARE",
+    "softwareTitle": "Public S/W",
+    "hardwareEyebrow": "HARDWARE",
+    "hardwareTitle": "H/W",
+    "hardwareIntro": "Public hardware design and firmware projects.",
+    "contributionsAria": "Key technologies and features",
+    "rolesAria": "Responsibilities",
+    "enlargeAria": "View larger",
+    "viewerAria": "Full-screen image viewer",
+    "closeAria": "Close",
+    "prevAria": "Previous image",
+    "nextAria": "Next image",
+    "software": [
+      {
+        "number": "01",
+        "title": "Wikiman",
+        "subtitle": "Personal wiki and mobile admin app",
+        "description": "A personal wiki. The Vue frontend and Node/PHP backends share one API contract, and the Android/iOS admin app can quickly post text, photos, and files.",
+        "contributions": [
+          "Vue 3 + Quasar frontend",
+          "Express + SQLite backend",
+          "PHP hosting API",
+          "JWT auth, uploads, backups",
+          "Flutter admin app",
+          "PWA"
+        ],
+        "signals": [
+          "VUE",
+          "API",
+          "PHP",
+          "APP"
+        ],
+        "links": [
+          {
+            "label": "Hub",
+            "href": "https://github.com/kendrickkim/wikiman"
+          },
+          {
+            "label": "Frontend",
+            "href": "https://github.com/kendrickkim/wikiman-frontend"
+          },
+          {
+            "label": "Node backend",
+            "href": "https://github.com/kendrickkim/wikiman-backend"
+          },
+          {
+            "label": "PHP backend",
+            "href": "https://github.com/kendrickkim/wikiman-backend-php"
+          },
+          {
+            "label": "Flutter app",
+            "href": "https://github.com/kendrickkim/wikiman-flutter"
+          }
+        ]
+      },
+      {
+        "number": "02",
+        "title": "PHAST API",
+        "subtitle": "Lightweight PHP REST framework with attributes",
+        "description": "A lightweight framework for building REST APIs quickly on PHP hosting. Endpoints are declared with PHP 8 attributes.",
+        "contributions": [
+          "PHP 8 attribute routing",
+          "Lightweight REST structure",
+          "Hosting-friendly deploy",
+          "Used by the Wikiman PHP backend"
+        ],
+        "signals": [
+          "PHP",
+          "ATTR",
+          "REST",
+          "API"
+        ],
+        "links": [
+          {
+            "label": "phastapiv2",
+            "href": "https://github.com/kendrickkim/phastapiv2"
+          }
+        ]
+      },
+      {
+        "number": "03",
+        "title": "Game Sync",
+        "subtitle": "Game-save sync for multiple PCs",
+        "description": "Manages different save paths per PC by account and game, zips directories, and stores them on a server. Restore from upload history or request an upload on another PC for the same account.",
+        "contributions": [
+          ".NET 8 WinForms client",
+          "Node.js + Express API",
+          "SQLite data model",
+          "JWT auth",
+          "Remote upload commands",
+          "Windows tray application"
+        ],
+        "signals": [
+          "WIN",
+          "ZIP",
+          "API",
+          "SYNC"
+        ],
+        "links": [
+          {
+            "label": "Umbrella repo",
+            "href": "https://github.com/kendrickkim/game-sync"
+          },
+          {
+            "label": "Windows client",
+            "href": "https://github.com/kendrickkim/game-sync-client"
+          },
+          {
+            "label": "Node.js server",
+            "href": "https://github.com/kendrickkim/game-sync-server"
+          }
+        ]
+      }
+    ],
+    "hardware": [
+      {
+        "number": "01",
+        "title": "M-Tracker",
+        "subtitle": "Vehicle telematics and cloud upload device",
+        "description": "Automotive hardware that decodes CAN signals and sends trip logs, speed, and location to a cloud server.",
+        "contributions": [
+          "Hardware design",
+          "CAN analysis",
+          "Firmware",
+          "Cloud integration"
+        ],
+        "images": [
+          {
+            "src": "/portfolio/mtracker1.png",
+            "alt": "M-Tracker PCB artwork"
+          },
+          {
+            "src": "/portfolio/mtracker2.png",
+            "alt": "M-Tracker 3D PCB rendering"
+          }
+        ]
+      },
+      {
+        "number": "02",
+        "title": "Dooderge Connector — Kiruki",
+        "subtitle": "Industrial multi-interface data collector",
+        "description": "An industrial connector that collects RS-232, RS-485, Wi-Fi, LAN, and contact signals and sends them to a server.",
+        "contributions": [
+          "Hardware design",
+          "Firmware",
+          "Windows application",
+          "Communication protocols"
+        ],
+        "images": [
+          {
+            "src": "/portfolio/kiruki1.png",
+            "alt": "Kiruki PCB artwork"
+          },
+          {
+            "src": "/portfolio/kiruki2.png",
+            "alt": "Kiruki 3D PCB rendering"
+          }
+        ]
+      },
+      {
+        "number": "03",
+        "title": "BMW Bike Cluster",
+        "subtitle": "Android cluster for BMW Motorrad",
+        "description": "An integrated project that decodes BMW motorcycle LIN or CAN signals and shows speed, RPM, gear, and controls on an Android cluster.",
+        "contributions": [
+          "Hardware design",
+          "Firmware",
+          "Android application",
+          "LIN and CAN analysis"
+        ],
+        "images": [
+          {
+            "src": "/portfolio/bmw-bike1.png",
+            "alt": "BMW Bike Cluster hardware"
+          },
+          {
+            "src": "/portfolio/bmw-bike2.png",
+            "alt": "BMW Bike Cluster device"
+          },
+          {
+            "src": "/portfolio/bmw-bike3.png",
+            "alt": "BMW Bike Cluster application"
+          }
+        ],
+        "video": {
+          "src": "https://www.youtube.com/embed/BmVxNDDYLkI",
+          "title": "BMW Bike Cluster demo video"
+        },
+        "links": [
+          {
+            "label": "LIN bus analysis",
+            "href": "https://github.com/kendrickkim/bmw-motorrad-cluster-linbus"
+          },
+          {
+            "label": "ESP32 firmware",
+            "href": "https://github.com/kendrickkim/bmw-motorrad-cluster-esp32"
+          },
+          {
+            "label": "Android app",
+            "href": "https://github.com/kendrickkim/bmw-motorrad-cluster-application"
+          }
+        ]
+      },
+      {
+        "number": "04",
+        "title": "Uljin Skyrail data collector",
+        "subtitle": "LTE vehicle-status collection and monitoring",
+        "description": "Collects status data from Skyrail vehicles, sends it to a server over LTE, and shows operations on a monitoring web UI.",
+        "contributions": [
+          "Firmware",
+          "Linux server",
+          "Monitoring web UI",
+          "LTE communication"
+        ],
+        "images": [
+          {
+            "src": "/portfolio/skyrail1.png",
+            "alt": "Skyrail collector PCB artwork"
+          },
+          {
+            "src": "/portfolio/skyrail2.png",
+            "alt": "Skyrail collector 3D PCB rendering"
+          },
+          {
+            "src": "/portfolio/skyrail3.png",
+            "alt": "Skyrail monitoring web login screen"
+          }
+        ]
+      }
+    ]
+  }
+}
